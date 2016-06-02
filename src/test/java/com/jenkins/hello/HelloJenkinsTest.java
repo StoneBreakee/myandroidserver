@@ -1,9 +1,7 @@
 package test.java.com.jenkins.hello;
 
-import static org.junit.Assert.*;
-
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-
 import main.java.com.jenkins.hello.HelloJenkins;
 
 public class HelloJenkinsTest
