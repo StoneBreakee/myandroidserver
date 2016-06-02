@@ -13,7 +13,7 @@ public class HelloJenkinsTest
     public void testSayHello()
     {
         HelloJenkins hello = new HelloJenkins();
-        assertEquals(hello.sayHello() , "Hello,Jenkins,lyj");
+        assertEquals(hello.sayHello() , "Hello,Jenkins");
     }
 
 }
